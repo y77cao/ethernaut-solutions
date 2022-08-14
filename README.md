@@ -1,0 +1,3 @@
+# ethernaut-solutions
+
+For funsies

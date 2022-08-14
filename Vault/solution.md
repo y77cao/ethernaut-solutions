@@ -1,0 +1,1 @@
+Should use getStorageAt to get private variable using storage slot like this https://medium.com/coinmonks/how-to-read-private-variables-in-contract-storage-with-truffle-ethernaut-lvl-8-walkthrough-b2382741da9f. But I found that as a constructor param on Etherscan so was able to crack it that way:/
